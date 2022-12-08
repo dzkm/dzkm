@@ -14,34 +14,26 @@
         <td>
             <div id="info" align="left">
                 <div id="workplace">
-                    <img src="https://img.shields.io/badge/Migração e Importação de Dados-OFF Serviços de Tecnologia-purple?style=flat">
+                    <a href='#'><img src="https://img.shields.io/badge/Migração e Importação de Dados-OFF Serviços de Tecnologia-purple?style=flat"></a>
                     <br>
-                    <img src="https://img.shields.io/badge/Estudante-Federal%20Institute%20Of%20Santa%20Catarina-green?style=flat">
+                    <a href='#'><img src="https://img.shields.io/badge/Estudante-Federal%20Institute%20Of%20Santa%20Catarina-green?style=flat"></a>
                 </div>
                 <div id="social">
-                    <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube" href="youtube.com/@dzkm">
-                    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter" href="twitter.com/@dzkm0">
+                    <a href="https://youtube.com/@dzkm"><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube"><a>
+                    <a href="https://twitter.com/@dzkm0"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter"></a>
                 </div>
             </div>
             <br>
             <h3>:computer: Linguagens conhecidas</h3>
             <div>
-              <img width="40px" height="40px" alt="PHP"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-              <img width="40px" height="40px" alt="CSS3"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-              <img width="40px" height="40px" alt="HTML5"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-              <img width="40px" height="40px" alt="JavaScript"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-              <img width="40px" height="40px" alt="ReactJS"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-              <img width="40px" height="40px" alt="Python"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-              <img width="40px" height="40px" alt="PostgresSQL"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-              <img width="40px" height="40px" alt="MySQL"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+              <a href='#'><img width="40px" height="40px" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="PostgresSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"></a>
             </div>
         </td>
     </tr>
