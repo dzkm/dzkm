@@ -14,9 +14,6 @@
         <td>
             <div id="info" align="left">
                 <div id="workplace">
-                    <a href='#'><img src="https://img.shields.io/badge/Migração e Importação de Dados-OFF Serviços de Tecnologia-purple?style=flat"></a>
-                    <br>
-                    <a href='#'><img src="https://img.shields.io/badge/Estudante-Federal%20Institute%20Of%20Santa%20Catarina-green?style=flat"></a>
                 </div>
                 <div id="social">
                     <a href="https://youtube.com/@dzkm"><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube"><a>
@@ -33,7 +30,7 @@
               <a href='#'><img width="40px" height="40px" alt="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
               <a href='#'><img width="40px" height="40px" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"></a>
               <a href='#'><img width="40px" height="40px" alt="PostgresSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"></a>
-              <a href='#'><img width="40px" height="40px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"></a>
+              <a href='#'><img width="40px" height="40px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
             </div>
         </td>
     </tr>
